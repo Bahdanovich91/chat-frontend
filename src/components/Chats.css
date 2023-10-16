@@ -1,0 +1,26 @@
+.container {
+    width: 300px;
+    background-color: silver;
+}
+.chats_input {
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 14px;
+}
+.chats_button {
+    border-color: #61dafb;
+}
+ul button {
+    background-color: red;
+    color: white;
+}
+ul {
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+li {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
