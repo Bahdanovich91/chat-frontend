@@ -1,0 +1,9 @@
+.header_container {
+    padding: 5px;
+    background-color: #282c34;
+    display: flex;
+    justify-content: center;
+}
+h2.header {
+    color: white;
+}
